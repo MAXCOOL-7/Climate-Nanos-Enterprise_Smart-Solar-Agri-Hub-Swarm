@@ -1,5 +1,4 @@
-# Smart Solar Agri-Hub: Multi-Agent Swarm & Control Infrastructure
-
+# Smart Solar Agri-Hub Swarm — Autonomous Agri-Climate Research Agent (Tavily Track)
 ## Overview
 A decentralized multi-agent system integrating IoT telemetry, adaptive microgrid control logic, and automated agricultural utility management (cold chain preservation and precision irrigation).
 
